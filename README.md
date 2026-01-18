@@ -1,3 +1,10 @@
+# VERY IMPORTANT DETAIL!!!!!
+
+- **THE ONLY OFFICIAL MAINTAINER OF MOONCAST IS javawned. I DONT HAVE ANY EXTERNAL LINKS EXCEPT THIS REPO. MAKE SURE TO REMEMBER THIS PATH!!**
+- **github.com/javawned/mooncast**
+
+---
+
 # 🌙 Mooncast
 
 **Mooncast** is a **closed-source Android application** focused on automated web interaction and testing.
@@ -9,7 +16,7 @@ The source code is **not** public.
 
 ## ⚠️ CRITICAL NOTICE
 
-- Mooncast **is actively maintained and updated** by the maintainer.
+- Mooncast **is actively maintained and updated** by the maintainer
 - **Only APKs released through this repository are considered legitimate**.
 - Any APK obtained from **third-party sites, mirrors, mod pages, or unknown sources** is **not trusted**.
 
