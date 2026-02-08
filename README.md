@@ -2,7 +2,7 @@
 
 - **THE ONLY OFFICIAL MAINTAINER OF MOONCAST IS javawned. I DONT HAVE ANY EXTERNAL LINKS EXCEPT THIS REPO AND THE TG CHANNEL. MAKE SURE TO REMEMBER THIS PATH!!**
 - **github.com/javawned/mooncast**
-- [JOIN OUR TELEGRAM CHANNEL](https://t.me/officialmooncast")
+- [JOIN OUR TELEGRAM CHANNEL](https://t.me/officialmooncast)
 - **t.me/officialmooncast**
 
 ---
