@@ -1,7 +1,9 @@
 # VERY IMPORTANT DETAIL!!!!!
 
-- **THE ONLY OFFICIAL MAINTAINER OF MOONCAST IS javawned. I DONT HAVE ANY EXTERNAL LINKS EXCEPT THIS REPO. MAKE SURE TO REMEMBER THIS PATH!!**
+- **THE ONLY OFFICIAL MAINTAINER OF MOONCAST IS javawned. I DONT HAVE ANY EXTERNAL LINKS EXCEPT THIS REPO AND THE TG CHANNEL. MAKE SURE TO REMEMBER THIS PATH!!**
 - **github.com/javawned/mooncast**
+- [JOIN OUR TELEGRAM CHANNEL](https://t.me/officialmooncast")
+- **t.me/officialmooncast**
 
 ---
 
@@ -61,24 +63,6 @@ You are responsible for:
 - Verifying APK authenticity  
 - Understanding the risks of sideloading Android applications  
 - Complying with applicable laws and Terms of Service  
-
----
-
-## 🚀 Overview
-
-Mooncast automates certain web-based interactions on Android devices.
-
-Some features are intentionally **undocumented or unnamed**.  
-Functionality may change, break, or be removed at any time.
-
----
-
-## ✨ Features (High-Level)
-
-- Android web automation utilities  
-- Dynamic content handling  
-- Text extraction and processing  
-- Optional AI-assisted systems  
 
 ---
 
