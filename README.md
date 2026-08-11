@@ -1,6 +1,5 @@
-# VERY IMPORTANT DETAIL!!!!!
-
-- **THE ONLY OFFICIAL MAINTAINER OF MOONCAST IS javawned. I DONT HAVE ANY EXTERNAL LINKS EXCEPT THIS REPO AND THE TG CHANNEL. MAKE SURE TO REMEMBER THIS PATH!!**
+# pls read
+- **this is only where you can download mooncast**
 - **github.com/javawned/mooncast**
 - [JOIN OUR TELEGRAM CHANNEL](https://t.me/officialmooncast)
 - **t.me/officialmooncast**
